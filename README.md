@@ -36,8 +36,8 @@ A modern Employee Management System built with **React** and **Vite**. This appl
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/empdata.git
-cd empdata
+git clone https://github.com/JK-c-w/Employee.Mangement
+cd Employee.Management
 npm install
 
 
